@@ -1,5 +1,3 @@
-
-
 #### 安装环境
 
 Z：下载安装Anaconda，该软件中安装以下环境：
@@ -66,11 +64,3 @@ for i in range(1,100):
 cv2.imshow('image',img)
 cv2.waitKey(0) 
 ```
-
-
-
-股票K线的绘制
-
-
-
-简单的神经网络
